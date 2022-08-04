@@ -1,0 +1,57 @@
+.could-section{
+    padding: 60px 0;
+    background: #EEEEEE;
+}
+
+.could{
+    padding: 110px 121px 90px 133px;    
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    background: #FFCA3A;
+    box-shadow: 0px 14px 44px rgba(143, 143, 143, 0.25);
+}
+
+.could__title{
+    margin: 24px 0 14px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #011F3A;
+}
+
+.could__text-div{
+    width: 310px;
+    margin-bottom: 10px;
+}
+
+.could-right .could__text-div{
+    width: 356px;
+}
+
+.could__text{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    text-align: center;
+    color: #3D5675;
+}
+
+.could-right{
+    padding-left: 123px;
+    border-left: 1px solid rgba(161, 161, 161, 0.4);
+}
+
+.could__link{
+    padding: 13px 25px;
+    display: inline-block;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 1.96px;
+    text-transform: uppercase;
+    color: #3D5675;
+    background: #FFFFFF;
+    border-radius: 44px;
+}

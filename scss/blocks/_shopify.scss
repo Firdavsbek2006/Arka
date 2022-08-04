@@ -1,0 +1,36 @@
+.shopify-section{
+    padding: 20px 0;
+    // background: #E5E5E5;
+}
+
+.shopify{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.shopify-div{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.shopify__text-div{
+    width: 81px;
+}
+
+.shopify__text-div:nth-child(2){
+    width: 67px;
+}
+
+.shopify__text-div:last-child{
+    width: 60px;
+}
+
+.shopify__text{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 19px;
+    letter-spacing: 0.6px;
+    color: #A1A1A1;
+}
